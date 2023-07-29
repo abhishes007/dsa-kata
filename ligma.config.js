@@ -1,7 +1,6 @@
 module.exports = {
     dsa: [
-        "Queue",
-        "Stack"
+        "MazeSolver",
     ],
 }
 
