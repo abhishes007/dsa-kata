@@ -1,6 +1,8 @@
 module.exports = {
     dsa: [
-        "DoublyLinkedList",
+        "BTInOrder",
+        "BTPostOrder",
+        "BTPreOrder"
     ],
 }
 
